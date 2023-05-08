@@ -7,6 +7,8 @@
 
 - 🤝 I’m looking for help with **AWS cloud**
 
+- 💬 Ask me about **Node.js,REST API,ExpressJS,NEST.JS**
+
 - 📫 How to reach me **vidwadeseram2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
