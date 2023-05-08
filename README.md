@@ -20,6 +20,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidwadeseram&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en" align = "center"/>
 </p>
 <p align="center">><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&" alt="vidwadeseram" /></p>
