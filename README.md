@@ -23,4 +23,4 @@
 <p align="center">
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en" align = "center"/>
 </p>
-<p align="center">><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&" alt="vidwadeseram" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&" alt="vidwadeseram" /></p>
