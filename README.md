@@ -22,6 +22,6 @@
 
 <p align="center">
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en" align = "center"/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&" alt="vidwadeseram" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&layout=compact" alt="vidwadeseram" />
 </p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&" alt="vidwadeseram" /></p>
