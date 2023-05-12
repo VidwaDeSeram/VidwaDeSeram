@@ -29,7 +29,7 @@
   <br>
   <br>
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&theme=radical" alt="vidwadeseram" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwa de seram&theme=radical" alt="vidwadeseram" />
   <br>
   <br>
   <br>
