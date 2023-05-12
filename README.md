@@ -23,5 +23,6 @@
 <p align="center">
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact" align = "center"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram" alt="vidwadeseram" />
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="center" src="[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)" alt="vidwadeseram" />
+
 </p>
