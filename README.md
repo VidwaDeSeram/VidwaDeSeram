@@ -34,6 +34,6 @@
   <br>
   <br>
   <br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vidwa de seram&theme=radical=vidwadeseram" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vidwadeseram&theme=radical" />
 
 </p>
