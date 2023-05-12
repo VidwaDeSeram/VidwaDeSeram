@@ -23,6 +23,6 @@
 <p align="center">
 <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&theme=radical" alt="vidwadeseram" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username&theme=radical=vidwadeseram" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vidwadeseram&theme=radical=vidwadeseram" />
 
 </p>
