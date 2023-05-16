@@ -30,11 +30,12 @@
   <br>
   <br>
   <br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&theme=radical" alt="vidwadeseram" />
+  <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
   <br>
   <br>
   <br>
+  
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidwadeseram&theme=radical" alt="vidwadeseram" />
   <br>
-   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
