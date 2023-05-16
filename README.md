@@ -24,7 +24,8 @@
   <br>
   <br>
 <p align="center">
-<img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
+  <img align="center" src="https://wakatime.com/share/@vidwadeseram/3dbe27fc-5762-4ce8-9d98-e311a60f82fa.svg" />
+
   <br>
   <br>
   <br>
@@ -34,6 +35,6 @@
   <br>
   <br>
   <br>
-   <img align="center" src="https://wakatime.com/share/@vidwadeseram/3dbe27fc-5762-4ce8-9d98-e311a60f82fa.svg" />
+   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidwadeseram&show_icons=true&locale=en&layout=compact&theme=radical" align = "center"/>
 </p>
 
