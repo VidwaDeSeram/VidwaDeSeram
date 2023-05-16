@@ -34,6 +34,6 @@
   <br>
   <br>
   <br>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=74533fda-0765-4dab-9f44-c9b153592202](https://wakatime.com/share/@vidwadeseram/3dbe27fc-5762-4ce8-9d98-e311a60f82fa.svg" />
+   <img align="center" src="[https://github-readme-stats.vercel.app/api/wakatime?username=74533fda-0765-4dab-9f44-c9b153592202](https://wakatime.com/share/@vidwadeseram/3dbe27fc-5762-4ce8-9d98-e311a60f82fa.svg](https://wakatime.com/share/@vidwadeseram/3dbe27fc-5762-4ce8-9d98-e311a60f82fa.svg)" />
 </p>
 
