@@ -34,6 +34,6 @@
   <br>
   <br>
   <br>
+   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=74533fda-0765-4dab-9f44-c9b153592202" />
 </p>
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
