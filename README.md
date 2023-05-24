@@ -24,7 +24,7 @@
   <br>
   <br>
 <p align="center">
-  <img align="center" src="https://wakatime.com/share/@vidwadeseram/3dbe27fc-5762-4ce8-9d98-e311a60f82fa.svg" />
+  <img align="center" src="https://wakatime.com/share/@vidwadeseram/ddf45f99-cd7a-4cd3-9f4b-21018e469803.svg" />
 
   <br>
   <br>
