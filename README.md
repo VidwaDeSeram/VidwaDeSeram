@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **academic projects**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Golang, AWS**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/VidwaDeSeram/VidwaDeSeram/issues)**
 
@@ -56,7 +56,7 @@
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=VidwaDeSeram&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 hight=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=VidwaDeSeram&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=VidwaDeSeram&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=VidwaDeSeram&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
